@@ -1,0 +1,141 @@
+nav {
+	/* text-align: right; */
+	padding-left: 30px; padding-right: 30px; position: relative; text-align: right;
+	top: 9px;
+	margin-right: 1em;
+	left: 20px;
+}
+nav a {
+	color: #404040;
+	
+	margin: auto 6px;
+	text-decoration: none;
+}
+
+nav a #grid {
+    width: 24px;
+    position: relative;
+    top: 6px;
+}
+
+nav #signin {
+    border: 1px solid #4285f4;
+	background-color: lightgray;
+    font-weight: 600;
+    color: #FFFFFF;
+    padding: 7px;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	
+    display: inline-block;  position: relative;  height: 17px;  line-height: 17px;  width: 58px;  color: #ffffff;  
+    background: #4285f4;  border-radius: 2px;  text-align: center;  font-weight: bold;  text-decoration: none;  font-family: "Arial";  font-size: 10pt;
+}
+
+section {
+	margin: auto;
+	width: 650px;
+	overflow: hidden;
+	text-align: center;
+	position: relative;
+	top: 170px;
+	height: 300px;
+}
+
+#logo {
+	width: 300px;
+	margin-bottom: 22px;
+}
+
+#search {
+	width: 630px;
+	height: 31px;
+}
+
+.btn {
+	border: thin solid gray;
+	background-color: lightgray;
+	display: inline-block;
+    
+	color: #404041;
+    
+	padding: 6px;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 2px;
+	width: 100px;
+	
+	position: relative;
+	top: 10px;
+	font-size: 12px;
+	background: -webkit-linear-gradient(top,#f5f5f5,#f1f1f1);
+	font-weight: bold;
+	margin-right: 16px;
+}
+
+section article form {
+	position: relative;
+}
+
+#mic {
+	position: absolute;
+	top: 8px;
+	right: 10px;
+	width: 23px;
+	
+}
+
+.footer-bar {
+background: #f2f2f2;
+border-top: 1px solid #e4e4e4;
+line-height: 40px;
+min-width: 980px;
+/* position: absolute; */
+bottom: 0;
+left: 0;
+position: absolute;
+right: 0;
+}
+
+
+.footerright {
+	position: relative;
+	right: -700px;
+	color: #666;
+	text-decoration: none;
+}
+
+.footer-left {
+	position: relative;
+	left: 0px;
+	color: #666;
+	text-decoration: none;
+	
+}
+
+.footer-left {
+	padding: 0 0 0 27px !important;
+}
+
+.footerright {
+	padding: 0 0 0 27px !important;
+	margin: 0 !important;
+}
+
+.btn {
+		position: relative;
+	top: 14px;
+	display: inline-block;
+	height: 28px;
+	line-height: 30px;
+	width: 97px;
+	color: #484848;
+	background: #F0F0F0;
+	border: 1px solid #E0E0E0; 
+	border-radius: 2px;
+	margin: auto;
+	text-align: center;
+	font-weight: bold;
+	text-decoration: none;
+	font-family: "Arial";
+	font-size: 8pt;
+}
